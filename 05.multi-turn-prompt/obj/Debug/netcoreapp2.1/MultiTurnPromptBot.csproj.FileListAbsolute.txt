@@ -1,0 +1,15 @@
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.1\MultiTurnPromptBot.deps.json
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.1\MultiTurnPromptBot.runtimeconfig.json
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.1\MultiTurnPromptBot.runtimeconfig.dev.json
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.1\MultiTurnPromptBot.dll
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.1\MultiTurnPromptBot.pdb
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.csprojAssemblyReference.cache
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.RazorAssemblyInfo.cache
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.RazorAssemblyInfo.cs
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.AssemblyInfoInputs.cache
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.AssemblyInfo.cs
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.dll
+C:\Users\ZweerK01\source\repos\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.1\MultiTurnPromptBot.pdb
